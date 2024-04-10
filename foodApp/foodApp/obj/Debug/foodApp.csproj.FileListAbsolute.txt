@@ -1,0 +1,10 @@
+C:\Users\LabP2PC9\Downloads\proyectoC#\foodApp\foodApp\bin\Debug\foodApp.exe.config
+C:\Users\LabP2PC9\Downloads\proyectoC#\foodApp\foodApp\bin\Debug\foodApp.exe
+C:\Users\LabP2PC9\Downloads\proyectoC#\foodApp\foodApp\bin\Debug\foodApp.pdb
+C:\Users\LabP2PC9\Downloads\proyectoC#\foodApp\foodApp\obj\Debug\foodApp.csproj.AssemblyReference.cache
+C:\Users\LabP2PC9\Downloads\proyectoC#\foodApp\foodApp\obj\Debug\foodApp.login.resources
+C:\Users\LabP2PC9\Downloads\proyectoC#\foodApp\foodApp\obj\Debug\foodApp.Properties.Resources.resources
+C:\Users\LabP2PC9\Downloads\proyectoC#\foodApp\foodApp\obj\Debug\foodApp.csproj.GenerateResource.cache
+C:\Users\LabP2PC9\Downloads\proyectoC#\foodApp\foodApp\obj\Debug\foodApp.csproj.CoreCompileInputs.cache
+C:\Users\LabP2PC9\Downloads\proyectoC#\foodApp\foodApp\obj\Debug\foodApp.exe
+C:\Users\LabP2PC9\Downloads\proyectoC#\foodApp\foodApp\obj\Debug\foodApp.pdb
